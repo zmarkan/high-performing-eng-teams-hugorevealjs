@@ -1,12 +1,7 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://high-performing-eng-teams.netlify.app/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'High-performing Engineering Teams, and the Holy Grail'
 theme: 'github.com/dzello/reveal-hugo'
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 outputFormats:
   reveal:
@@ -14,4 +9,64 @@ outputFormats:
     isHTML: true
     mediaType: 'text/html'
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser: # https://roneo.org/en/hugo-custom-css-classes-images-markdown-attributes/
+      wrapStandAloneImageWithinParagraph: false # https://github.com/gohugoio/hugo/releases/tag/v0.108.0
+      attribute:
+        block: true
+        title: true
 
+outputFormats:
+  reveal:
+    baseName: 'index'
+    isHTML: true
+    mediaType: 'text/html'
+
+params:
+  # Set logo options
+  logo:
+    src: '/images/twitter-iamjerdog.png'
+    top: '90%'
+    left: '80%'
+    width: '15%'
+  logo-btm-left:
+    src: '/images/circleci-white-horizontal-logo.png'
+    top: '90%'
+    left: '5%'
+    width: '10%'
+    opacity: '0.5'
+  appearance:
+    font: 'Open Sans'
+    font_size: S
+  reveal_hugo:
+    theme: 'night'
+    margin: 0.1
+    transition: 'slide'
+    transitionSpeed: 'fast'
+    slideNumber: false
+    controls: false
+    hash: true
+    respondToHashChanges: true
+    jumpToSlide: true
+    keyboard: true
+    overview: true
+    fragments: true
+    fragmentInURL: true
+    pause: true
+    progress: true
+    history: true
+    center: true
+    loop: false
+    help: true
+    mouseWheel: false
+    hideAddressBar: true
+    previewLinks: false
+    load_default_plugins: true
+## Custom CSS options
+    # custom_css:
+    #   # Custom CSS file
+    #   targetPath: 'stylesheets/custom.css'
+    #   enableSourceMap: true
