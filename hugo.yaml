@@ -28,7 +28,7 @@ outputFormats:
 params:
   # Set logo options
   logo:
-    src: '/images/twitter-iamjerdog.png'
+    src: '/images/twitter-zmarkan.png'
     top: '90%'
     left: '80%'
     width: '15%'

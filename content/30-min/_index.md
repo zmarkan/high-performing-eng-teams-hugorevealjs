@@ -31,8 +31,8 @@ But the landscape of tools, platforms, and architectures is constantly evolving.
 <section>
     <div class="multiCol">
         <div class="col">
-            <h4 style="color: rgb(111, 168, 220);">Jeremy Meiss</h4>
-            <p style="font-size: .75em;">Director, DevRel &</p>
+            <h4 style="color: rgb(111, 168, 220);">Zan Markan</h4>
+            <p style="font-size: .75em;">Senior Developer Advocate</p>
             <p style="font-size: .75em;">CircleCI</p>
         </div>
         <div class="col"><img src="/images/profile-pic.jpg" width="60%"></div>
