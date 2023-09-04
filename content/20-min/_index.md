@@ -436,6 +436,12 @@ Measuring and then optimizing Duration, Throughput, Mean Time to Recovery, and S
 
 ---
 
+### High-performing teams in EMEA
+
+![high-performing teams in EMEA](/images/slides/metrics-comparison-emea.png)
+
+---
+
 ### The impact of Platform teams
 
 ---
