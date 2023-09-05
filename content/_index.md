@@ -548,6 +548,7 @@ Throughput: Platform engineering exists primarily to remove blockers from develo
         </div>
         <div class="col" align="center"></div>
         <div class="col" align="left" style="font-size: .5em;">
+            <img src="/images/slides/lego-baby-yoda.jpg"><br />
             <img src="/images/slides/twitter.png" height="50px" style="vertical-align: middle; margin: 10px;">@zmarkan<br />
             <img src="/images/slides/linkedin.png" height="50px" style="vertical-align: middle; margin: 10px;">/in/zmarkan<br />
         </div>
