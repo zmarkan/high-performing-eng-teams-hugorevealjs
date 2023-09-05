@@ -554,6 +554,9 @@ Throughput: Platform engineering exists primarily to remove blockers from develo
 
 ---
 
+<!-- 
+---
+
 {{< slide id="end" >}}
 <section>
     <div class="multiCol">
@@ -573,4 +576,4 @@ Throughput: Platform engineering exists primarily to remove blockers from develo
             <img src="/images/slides/mastodon.png" height="50px" style="vertical-align: middle; margin: 10px;">@jerdog@hachyderm.io
         </div>
     </div>
-</section>
+</section> -->
