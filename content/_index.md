@@ -536,9 +536,6 @@ Throughput: Platform engineering exists primarily to remove blockers from develo
 
 ---
 
-<!-- 
----
-
 {{< slide id="end" >}}
 <section>
     <div class="multiCol">
@@ -546,16 +543,13 @@ Throughput: Platform engineering exists primarily to remove blockers from develo
             <h3 style="color: #04aa51;">Thank You.</h3>
             <p style="font-size: .75em;"></p>
             <p style="font-size: .5em;">For feedback and swag: <font style="color: rgb(111, 168, 220);"><br />
-            <img src="/images/qrcode-cci-jeremy.png"><br />
-            <strong>circle.ci/jeremy</strong></font></p>
+            <img src="/images/slides/lego-star-wars-raffle.png"><br />
+            <strong>circleci-community.typeform.com/civoraffle</strong></font></p>
         </div>
         <div class="col" align="center"></div>
         <div class="col" align="left" style="font-size: .5em;">
-            <img src="/images/slides/polywork.png" height="50px" style="vertical-align: middle; margin: 10px;">timeline.jerdog.me<br />
-            <img src="/images/slides/twitter.png" height="50px" style="vertical-align: middle; margin: 10px;">@IAmJerdog<br />
-            <img src="/images/slides/devto.png" height="50px" style="vertical-align: middle; margin: 10px;">@jerdog<br />
-            <img src="/images/slides/linkedin.png" height="50px" style="vertical-align: middle; margin: 10px;">/in/jeremymeiss<br />
-            <img src="/images/slides/mastodon.png" height="50px" style="vertical-align: middle; margin: 10px;">@jerdog@hachyderm.io
+            <img src="/images/slides/twitter.png" height="50px" style="vertical-align: middle; margin: 10px;">@zmarkan<br />
+            <img src="/images/slides/linkedin.png" height="50px" style="vertical-align: middle; margin: 10px;">/in/zmarkan<br />
         </div>
     </div>
-</section> -->
+</section>
