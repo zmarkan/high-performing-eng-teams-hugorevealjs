@@ -18,7 +18,7 @@ Software delivery has never been more critical to the success of business in eve
 
 ---
 
-![cncf-landscape](/images/slides/cncf-landscape.png)
+![cncf-landscape](/images/slides/cncf-landscape-2.png)
 {.r-stretch}
 
 {{% note %}}
@@ -445,26 +445,8 @@ Measuring and then optimizing Duration, Throughput, Mean Time to Recovery, and S
 ### The impact of Platform teams
 
 ---
-### Platform Teams, DevOps, and YOU
 
-{{% note %}}
-I'm sure you've all heard by now that DevOps is dead.
-{{% /note %}}
-
----
-
-#### No, DevOps is not dead
-
-![devops is not dead](/images/slides/devops-not-dead.png)
-{.r-stretch}
-
-{{% note %}}
-DevOps as a principle, a mindset of putting culture ahead of tools, and breaking down silos (physical and cultural) and growing lines of communication between Dev and Ops has been good. DevOps is not going anywhere, and still forms the construct for how high-performing engineering teams (and organizations) function. But at the same time, let's think back to earlier where I talked about the complexity of modern app development, specifically illustrated with the CNCF landscape.  
-{{% /note %}}
-
----
-
-![cncf landscape](/images/slides/cncf-landscape.png)
+![cncf landscape](/images/slides/cncf-landscape-2.png)
 {.r-stretch}
 
 {{% note %}}
